@@ -6,17 +6,17 @@ Evade internet censorship!
 
 # press ctrl+m to toggle cloak ;)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/material-unblocker)
-[![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/titaniumnetwork-dev/material-unblocker)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Titanium-Network/material-unblocker)
+[![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/Titanium-Network/material-unblocker)
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
-[![Deploy to AWS](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/titaniumnetwork-dev/material-unblocker)
+[![Deploy to AWS](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/Titanium-Network/material-unblocker)
 
 ^^ all links deploy the material unblocker repo
 
 ## Running the website on your computer
 
 1. Install [node.js](http://nodejs.org/)
-2. [Download the code](https://github.com/titaniumnetwork-dev/material-unblocker/archive/master.zip)
+2. [Download the code](https://github.com/Titanium-Network/material-unblocker/archive/master.zip)
 3. Unzip it
 4. Open up a terminal/command line
 5. `cd` into the directory
